@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  gap: var(--st-grid-unit2x);
+  margin: auto;
+  max-width: 1000px;
+  padding: 56px;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 24;
+  margin-bottom: 24px;
+}
+
+.title {
+  font-size: 60px;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@nasapds/wds",
+  "description": "A CSS implementation of the PDS Design System.",
+  "type": "module",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NASA-PDS/wds.git"
+  },
+  "scripts": {
+    "build:css": "rm -rf css && sass scss:css",
+    "build:icons": "node scripts/build-icons.js",
+    "lint": "stylelint scss/**/*.scss --fix"
+  },
+  "devDependencies": {
+    "sass": "^1.60.0",
+    "stylelint": "^15.3.0",
+    "stylelint-config-standard-scss": "^7.0.1",
+    "stylelint-order": "^6.0.3"
+  }
+}
