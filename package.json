@@ -14,9 +14,9 @@
     "lint": "stylelint scss/**/*.scss --fix"
   },
   "devDependencies": {
-    "sass": "^1.60.0",
-    "stylelint": "^15.3.0",
-    "stylelint-config-standard-scss": "^7.0.1",
+    "sass": "^1.69.5",
+    "stylelint": "^15.11.0",
+    "stylelint-config-standard-scss": "^11.1.0",
     "stylelint-order": "^6.0.3"
   }
 }
