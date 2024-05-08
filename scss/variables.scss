@@ -28,9 +28,14 @@
   --pds-international-isro-blue-tint: #1087D5;
 
   /* Typography. */
+  --pds-typography-display-font-family: 'Inter Variable', sans-serif;
+  --pds-typography-body-font-family: 'Public Sans Variable', sans-serif;
+  --pds-typography-display-light-font-family: 'DM Mono', monospace;
+  --pds-typography-label-font-family: 'DM Mono', monospace;
+
   --pds-typography-display-120-bold-font-size: 120px;
   --pds-typography-display-120-bold-line-height: 120px;
-  --pds-typography-display-120-bold-letter-spacing: 5.5px;
+  --pds-typography-display-120-bold-letter-spacing: -5.5px;
   --pds-typography-display-120-bold-font-weight: bold;
 
   --pds-typography-display-100-bold-font-size: 100px;
