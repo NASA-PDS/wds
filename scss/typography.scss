@@ -12,7 +12,7 @@ html, body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.wds-typography-display-120 {
+.wds-typography-display-bold-120 {
   font-family: var(--pds-typography-display-font-family);
   font-weight: var(--pds-typography-display-120-bold-font-weight);
   font-size: var(--pds-typography-display-120-bold-font-size);
@@ -20,7 +20,7 @@ html, body {
   letter-spacing: var(--pds-typography-display-120-bold-letter-spacing);
 }
 
-.wds-typography-display-100 {
+.wds-typography-display-bold-100 {
   font-family: var(--pds-typography-display-font-family);
   font-weight: var(--pds-typography-display-100-bold-font-weight);
   font-size: var(--pds-typography-display-100-bold-font-size);
@@ -28,7 +28,7 @@ html, body {
   letter-spacing: var(--pds-typography-display-100-bold-letter-spacing);
 }
 
-.wds-typography-display-80 {
+.wds-typography-display-bold-80 {
   font-family: var(--pds-typography-display-font-family);
   font-weight: var(--pds-typography-display-80-bold-font-weight);
   font-size: var(--pds-typography-display-80-bold-font-size);
@@ -36,7 +36,7 @@ html, body {
   letter-spacing: var(--pds-typography-display-80-bold-letter-spacing);
 }
 
-.wds-typography-display-72 {
+.wds-typography-display-bold-72 {
   font-family: var(--pds-typography-display-font-family);
   font-weight: var(--pds-typography-display-72-bold-font-weight);
   font-size: var(--pds-typography-display-72-bold-font-size);
@@ -44,7 +44,7 @@ html, body {
   letter-spacing: var(--pds-typography-display-72-bold-letter-spacing);
 }
 
-.wds-typography-display-60 {
+.wds-typography-display-bold-60 {
   font-family: var(--pds-typography-display-font-family);
   font-weight: var(--pds-typography-display-60-bold-font-weight);
   font-size: var(--pds-typography-display-60-bold-font-size);
@@ -52,7 +52,7 @@ html, body {
   letter-spacing: var(--pds-typography-display-60-bold-letter-spacing);
 }
 
-.wds-typography-display-48 {
+.wds-typography-display-bold-48 {
   font-family: var(--pds-typography-display-font-family);
   font-weight: var(--pds-typography-display-48-bold-font-weight);
   font-size: var(--pds-typography-display-48-bold-font-size);
@@ -60,7 +60,7 @@ html, body {
   letter-spacing: var(--pds-typography-display-48-bold-letter-spacing);
 }
 
-.wds-typography-display-41 {
+.wds-typography-display-bold-41 {
   font-family: var(--pds-typography-display-font-family);
   font-weight: var(--pds-typography-display-41-bold-font-weight);
   font-size: var(--pds-typography-display-41-bold-font-size);
@@ -188,7 +188,7 @@ html, body {
   letter-spacing: var(--pds-typography-header-11-semibold-letter-spacing);
 }
 
-.wds-typography-body-18 {
+.wds-typography-body-regular-18 {
   font-family: var(--pds-typography-body-font-family);
   font-weight: var(--pds-typography-body-18-font-weight);
   font-size: var(--pds-typography-body-18-font-size);
@@ -196,7 +196,7 @@ html, body {
   letter-spacing: var(--pds-typography-body-18-letter-spacing);
 }
 
-.wds-typography-body-16 {
+.wds-typography-body-regular-16 {
   font-family: var(--pds-typography-body-font-family);
   font-weight: var(--pds-typography-body-16-font-weight);
   font-size: var(--pds-typography-body-16-font-size);
@@ -204,7 +204,7 @@ html, body {
   letter-spacing: var(--pds-typography-body-16-letter-spacing);
 }
 
-.wds-typography-body-14 {
+.wds-typography-body-regular-14 {
   font-family: var(--pds-typography-body-font-family);
   font-weight: var(--pds-typography-body-14-font-weight);
   font-size: var(--pds-typography-body-14-font-size);
@@ -212,7 +212,7 @@ html, body {
   letter-spacing: var(--pds-typography-body-14-letter-spacing);
 }
 
-.wds-typography-body-12 {
+.wds-typography-body-regular-12 {
   font-family: var(--pds-typography-body-font-family);
   font-weight: var(--pds-typography-body-12-font-weight);
   font-size: var(--pds-typography-body-12-font-size);
@@ -220,7 +220,7 @@ html, body {
   letter-spacing: var(--pds-typography-body-12-letter-spacing);
 }
 
-.wds-typography-body-11 {
+.wds-typography-body-regular-11 {
   font-family: var(--pds-typography-body-font-family);
   font-weight: var(--pds-typography-body-11-font-weight);
   font-size: var(--pds-typography-body-11-font-size);
@@ -268,26 +268,26 @@ html, body {
   letter-spacing: var(--pds-typography-display-28-light-letter-spacing);
 }
 
-.wds-typography-label-14 {
+.wds-typography-label-medium-14 {
   font-family: var(--pds-typography-label-font-family);
-  font-weight: var(--pds-typography-label-14-font-weight);
-  font-size: var(--pds-typography-label-14-font-size);
-  line-height: var(--pds-typography-label-14-line-height);
-  letter-spacing: var(--pds-typography-label-14-letter-spacing);
+  font-weight: var(--pds-typography-label-14-medium-font-weight);
+  font-size: var(--pds-typography-label-14-medium-font-size);
+  line-height: var(--pds-typography-label-14-medium-line-height);
+  letter-spacing: var(--pds-typography-label-14-medium-letter-spacing);
 }
 
-.wds-typography-label-12 {
+.wds-typography-label-medium-12 {
   font-family: var(--pds-typography-label-font-family);
-  font-weight: var(--pds-typography-label-12-font-weight);
-  font-size: var(--pds-typography-label-12-font-size);
-  line-height: var(--pds-typography-label-12-line-height);
-  letter-spacing: var(--pds-typography-label-12-letter-spacing);
+  font-weight: var(--pds-typography-label-12-medium-font-weight);
+  font-size: var(--pds-typography-label-12-medium-font-size);
+  line-height: var(--pds-typography-label-12-medium-line-height);
+  letter-spacing: var(--pds-typography-label-12-medium-letter-spacing);
 }
 
-.wds-typography-label-11 {
+.wds-typography-label-medium-11 {
   font-family: var(--pds-typography-label-font-family);
-  font-weight: var(--pds-typography-label-11-font-weight);
-  font-size: var(--pds-typography-label-11-font-size);
-  line-height: var(--pds-typography-label-11-line-height);
-  letter-spacing: var(--pds-typography-label-11-letter-spacing);
+  font-weight: var(--pds-typography-label-11-medium-font-weight);
+  font-size: var(--pds-typography-label-11-medium-font-size);
+  line-height: var(--pds-typography-label-11-medium-line-height);
+  letter-spacing: var(--pds-typography-label-11-medium-letter-spacing);
 }
