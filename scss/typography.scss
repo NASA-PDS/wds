@@ -11,3 +11,283 @@ html, body {
 .wds-typography-displayBody {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.wds-typography-display-bold-120 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-display-120-bold-font-weight);
+  font-size: var(--pds-typography-display-120-bold-font-size);
+  line-height: var(--pds-typography-display-120-bold-line-height);
+  letter-spacing: var(--pds-typography-display-120-bold-letter-spacing);
+}
+
+.wds-typography-display-bold-100 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-display-100-bold-font-weight);
+  font-size: var(--pds-typography-display-100-bold-font-size);
+  line-height: var(--pds-typography-display-100-bold-line-height);
+  letter-spacing: var(--pds-typography-display-100-bold-letter-spacing);
+}
+
+.wds-typography-display-bold-80 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-display-80-bold-font-weight);
+  font-size: var(--pds-typography-display-80-bold-font-size);
+  line-height: var(--pds-typography-display-80-bold-line-height);
+  letter-spacing: var(--pds-typography-display-80-bold-letter-spacing);
+}
+
+.wds-typography-display-bold-72 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-display-72-bold-font-weight);
+  font-size: var(--pds-typography-display-72-bold-font-size);
+  line-height: var(--pds-typography-display-72-bold-line-height);
+  letter-spacing: var(--pds-typography-display-72-bold-letter-spacing);
+}
+
+.wds-typography-display-bold-60 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-display-60-bold-font-weight);
+  font-size: var(--pds-typography-display-60-bold-font-size);
+  line-height: var(--pds-typography-display-60-bold-line-height);
+  letter-spacing: var(--pds-typography-display-60-bold-letter-spacing);
+}
+
+.wds-typography-display-bold-48 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-display-48-bold-font-weight);
+  font-size: var(--pds-typography-display-48-bold-font-size);
+  line-height: var(--pds-typography-display-48-bold-line-height);
+  letter-spacing: var(--pds-typography-display-48-bold-letter-spacing);
+}
+
+.wds-typography-display-bold-41 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-display-41-bold-font-weight);
+  font-size: var(--pds-typography-display-41-bold-font-size);
+  line-height: var(--pds-typography-display-41-bold-line-height);
+  letter-spacing: var(--pds-typography-display-41-bold-letter-spacing);
+}
+
+.wds-typography-header-bold-36 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-36-bold-font-weight);
+  font-size: var(--pds-typography-header-36-bold-font-size);
+  line-height: var(--pds-typography-header-36-bold-line-height);
+  letter-spacing: var(--pds-typography-header-36-bold-letter-spacing);
+}
+
+.wds-typography-header-light-36 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-36-light-font-weight);
+  font-size: var(--pds-typography-header-36-light-font-size);
+  line-height: var(--pds-typography-header-36-light-line-height);
+  letter-spacing: var(--pds-typography-header-36-light-letter-spacing);
+}
+
+.wds-typography-header-bold-29 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-29-bold-font-weight);
+  font-size: var(--pds-typography-header-29-bold-font-size);
+  line-height: var(--pds-typography-header-29-bold-line-height);
+  letter-spacing: var(--pds-typography-header-29-bold-letter-spacing);
+}
+
+.wds-typography-header-light-29 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-29-light-font-weight);
+  font-size: var(--pds-typography-header-29-light-font-size);
+  line-height: var(--pds-typography-header-29-light-line-height);
+  letter-spacing: var(--pds-typography-header-29-light-letter-spacing);
+}
+
+.wds-typography-header-bold-22 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-22-bold-font-weight);
+  font-size: var(--pds-typography-header-22-bold-font-size);
+  line-height: var(--pds-typography-header-22-bold-line-height);
+  letter-spacing: var(--pds-typography-header-22-bold-letter-spacing);
+}
+
+.wds-typography-header-regular-22 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-22-regular-font-weight);
+  font-size: var(--pds-typography-header-22-regular-font-size);
+  line-height: var(--pds-typography-header-22-regular-line-height);
+  letter-spacing: var(--pds-typography-header-22-regular-letter-spacing);
+}
+
+.wds-typography-header-semibold-18 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-18-semibold-font-weight);
+  font-size: var(--pds-typography-header-18-semibold-font-size);
+  line-height: var(--pds-typography-header-18-semibold-line-height);
+  letter-spacing: var(--pds-typography-header-18-semibold-letter-spacing);
+}
+
+.wds-typography-header-regular-18 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-18-regular-font-weight);
+  font-size: var(--pds-typography-header-18-regular-font-size);
+  line-height: var(--pds-typography-header-18-regular-line-height);
+  letter-spacing: var(--pds-typography-header-18-regular-letter-spacing);
+}
+
+.wds-typography-header-semibold-16 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-16-semibold-font-weight);
+  font-size: var(--pds-typography-header-16-semibold-font-size);
+  line-height: var(--pds-typography-header-16-semibold-line-height);
+  letter-spacing: var(--pds-typography-header-16-semibold-letter-spacing);
+}
+
+.wds-typography-header-regular-16 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-16-regular-font-weight);
+  font-size: var(--pds-typography-header-16-regular-font-size);
+  line-height: var(--pds-typography-header-16-regular-line-height);
+  letter-spacing: var(--pds-typography-header-16-regular-letter-spacing);
+}
+
+.wds-typography-header-semibold-14 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-14-semibold-font-weight);
+  font-size: var(--pds-typography-header-14-semibold-font-size);
+  line-height: var(--pds-typography-header-14-semibold-line-height);
+  letter-spacing: var(--pds-typography-header-14-semibold-letter-spacing);
+}
+
+.wds-typography-header-regular-14 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-14-regular-font-weight);
+  font-size: var(--pds-typography-header-14-regular-font-size);
+  line-height: var(--pds-typography-header-14-regular-line-height);
+  letter-spacing: var(--pds-typography-header-14-regular-letter-spacing);
+}
+
+.wds-typography-header-semibold-12 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-12-semibold-font-weight);
+  font-size: var(--pds-typography-header-12-semibold-font-size);
+  line-height: var(--pds-typography-header-12-semibold-line-height);
+  letter-spacing: var(--pds-typography-header-12-semibold-letter-spacing);
+}
+
+.wds-typography-header-regular-12 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-12-regular-font-weight);
+  font-size: var(--pds-typography-header-12-regular-font-size);
+  line-height: var(--pds-typography-header-12-regular-line-height);
+  letter-spacing: var(--pds-typography-header-12-regular-letter-spacing);
+}
+
+.wds-typography-header-semibold-11 {
+  font-family: var(--pds-typography-display-font-family);
+  font-weight: var(--pds-typography-header-11-semibold-font-weight);
+  font-size: var(--pds-typography-header-11-semibold-font-size);
+  line-height: var(--pds-typography-header-11-semibold-line-height);
+  letter-spacing: var(--pds-typography-header-11-semibold-letter-spacing);
+}
+
+.wds-typography-body-regular-18 {
+  font-family: var(--pds-typography-body-font-family);
+  font-weight: var(--pds-typography-body-18-font-weight);
+  font-size: var(--pds-typography-body-18-font-size);
+  line-height: var(--pds-typography-body-18-line-height);
+  letter-spacing: var(--pds-typography-body-18-letter-spacing);
+}
+
+.wds-typography-body-regular-16 {
+  font-family: var(--pds-typography-body-font-family);
+  font-weight: var(--pds-typography-body-16-font-weight);
+  font-size: var(--pds-typography-body-16-font-size);
+  line-height: var(--pds-typography-body-16-line-height);
+  letter-spacing: var(--pds-typography-body-16-letter-spacing);
+}
+
+.wds-typography-body-regular-14 {
+  font-family: var(--pds-typography-body-font-family);
+  font-weight: var(--pds-typography-body-14-font-weight);
+  font-size: var(--pds-typography-body-14-font-size);
+  line-height: var(--pds-typography-body-14-line-height);
+  letter-spacing: var(--pds-typography-body-14-letter-spacing);
+}
+
+.wds-typography-body-regular-12 {
+  font-family: var(--pds-typography-body-font-family);
+  font-weight: var(--pds-typography-body-12-font-weight);
+  font-size: var(--pds-typography-body-12-font-size);
+  line-height: var(--pds-typography-body-12-line-height);
+  letter-spacing: var(--pds-typography-body-12-letter-spacing);
+}
+
+.wds-typography-body-regular-11 {
+  font-family: var(--pds-typography-body-font-family);
+  font-weight: var(--pds-typography-body-11-font-weight);
+  font-size: var(--pds-typography-body-11-font-size);
+  line-height: var(--pds-typography-body-11-line-height);
+  letter-spacing: var(--pds-typography-body-11-letter-spacing);
+}
+
+.wds-typography-display-light-240 {
+  font-family: var(--pds-typography-display-light-font-family);
+  font-weight: var(--pds-typography-display-240-light-font-weight);
+  font-size: var(--pds-typography-display-240-light-font-size);
+  line-height: var(--pds-typography-display-240-light-line-height);
+  letter-spacing: var(--pds-typography-display-240-light-letter-spacing);
+}
+
+.wds-typography-display-light-120 {
+  font-family: var(--pds-typography-display-light-font-family);
+  font-weight: var(--pds-typography-display-120-light-font-weight);
+  font-size: var(--pds-typography-display-120-light-font-size);
+  line-height: var(--pds-typography-display-120-light-line-height);
+  letter-spacing: var(--pds-typography-display-120-light-letter-spacing);
+}
+
+.wds-typography-display-light-48 {
+  font-family: var(--pds-typography-display-light-font-family);
+  font-weight: var(--pds-typography-display-48-light-font-weight);
+  font-size: var(--pds-typography-display-48-light-font-size);
+  line-height: var(--pds-typography-display-48-light-line-height);
+  letter-spacing: var(--pds-typography-display-48-light-letter-spacing);
+}
+
+.wds-typography-display-light-36 {
+  font-family: var(--pds-typography-display-light-font-family);
+  font-weight: var(--pds-typography-display-36-light-font-weight);
+  font-size: var(--pds-typography-display-36-light-font-size);
+  line-height: var(--pds-typography-display-36-light-line-height);
+  letter-spacing: var(--pds-typography-display-36-light-letter-spacing);
+}
+
+.wds-typography-display-light-28 {
+  font-family: var(--pds-typography-display-light-font-family);
+  font-weight: var(--pds-typography-display-28-light-font-weight);
+  font-size: var(--pds-typography-display-28-light-font-size);
+  line-height: var(--pds-typography-display-28-light-line-height);
+  letter-spacing: var(--pds-typography-display-28-light-letter-spacing);
+}
+
+.wds-typography-label-medium-14 {
+  font-family: var(--pds-typography-label-font-family);
+  font-weight: var(--pds-typography-label-14-medium-font-weight);
+  font-size: var(--pds-typography-label-14-medium-font-size);
+  line-height: var(--pds-typography-label-14-medium-line-height);
+  letter-spacing: var(--pds-typography-label-14-medium-letter-spacing);
+}
+
+.wds-typography-label-medium-12 {
+  font-family: var(--pds-typography-label-font-family);
+  font-weight: var(--pds-typography-label-12-medium-font-weight);
+  font-size: var(--pds-typography-label-12-medium-font-size);
+  line-height: var(--pds-typography-label-12-medium-line-height);
+  letter-spacing: var(--pds-typography-label-12-medium-letter-spacing);
+}
+
+.wds-typography-label-medium-11 {
+  font-family: var(--pds-typography-label-font-family);
+  font-weight: var(--pds-typography-label-11-medium-font-weight);
+  font-size: var(--pds-typography-label-11-medium-font-size);
+  line-height: var(--pds-typography-label-11-medium-line-height);
+  letter-spacing: var(--pds-typography-label-11-medium-letter-spacing);
+}

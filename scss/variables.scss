@@ -28,9 +28,14 @@
   --pds-international-isro-blue-tint: #1087D5;
 
   /* Typography. */
+  --pds-typography-display-font-family: 'Inter Variable', sans-serif;
+  --pds-typography-body-font-family: 'Public Sans Variable', sans-serif;
+  --pds-typography-display-light-font-family: 'DM Mono', monospace;
+  --pds-typography-label-font-family: 'DM Mono', monospace;
+
   --pds-typography-display-120-bold-font-size: 120px;
   --pds-typography-display-120-bold-line-height: 120px;
-  --pds-typography-display-120-bold-letter-spacing: 5.5px;
+  --pds-typography-display-120-bold-letter-spacing: -5.5px;
   --pds-typography-display-120-bold-font-weight: bold;
 
   --pds-typography-display-100-bold-font-size: 100px;
@@ -133,10 +138,10 @@
   --pds-typography-header-12-regular-letter-spacing: 0.25px;
   --pds-typography-header-12-regular-font-weight: light, 600; /*semi bold = 600*/
   
-  --pds-typography-header-12-semibold-font-size: 11px;
-  --pds-typography-header-12-semibold-line-height: 19px;
-  --pds-typography-header-12-semibold-letter-spacing: 0.25px;
-  --pds-typography-header-12-semibold-font-weight: bold;
+  --pds-typography-header-11-semibold-font-size: 11px;
+  --pds-typography-header-11-semibold-line-height: 19px;
+  --pds-typography-header-11-semibold-letter-spacing: 0.25px;
+  --pds-typography-header-11-semibold-font-weight: bold;
 
   --pds-typography-body-18-font-size: 18px;
   --pds-typography-body-18-line-height: 27px;
@@ -163,43 +168,58 @@
   --pds-typography-body-11-letter-spacing: 0.25px;
   --pds-typography-body-11-font-weight: normal;
 
-  --pds-typography-label-240-font-size: 240px;
-  --pds-typography-label-240-line-height: 240px;
-  --pds-typography-label-240-letter-spacing: -2.5;
-  --pds-typography-label-240-font-weight: normal;
+  --pds-typography-label-14-medium-font-size: 14px;
+  --pds-typography-label-14-medium-line-height: 150%;
+  --pds-typography-label-14-medium-letter-spacing: 4.25px;
+  --pds-typography-label-14-medium-font-weight: medium;
 
-  --pds-typography-label-120-font-size: 120px;
-  --pds-typography-label-120-line-height: 120px;
-  --pds-typography-label-120-letter-spacing: -3px;
-  --pds-typography-label-120-font-weight: light;
+  --pds-typography-label-12-medium-font-size: 12px;
+  --pds-typography-label-12-medium-line-height: 180%;
+  --pds-typography-label-12-medium-letter-spacing: 3.5px;
+  --pds-typography-label-12-medium-font-weight: medium;
 
-  --pds-typography-label-48-font-size: 48px;
-  --pds-typography-label-48-line-height: 48px;
-  --pds-typography-label-48-letter-spacing: 0px;
-  --pds-typography-label-48-font-weight: light;
+  --pds-typography-label-11-medium-font-size: 11px;
+  --pds-typography-label-11-medium-line-height: 180%;
+  --pds-typography-label-11-medium-letter-spacing: 2.25px;
+  --pds-typography-label-11-medium-font-weight: medium;
 
-  --pds-typography-label-36-font-size: 36px;
-  --pds-typography-label-36-line-height: 36px;
-  --pds-typography-label-36-letter-spacing: 0;
-  --pds-typography-label-36-font-weight: light;
+  --pds-typography-display-240-light-font-size: 240px;
+  --pds-typography-display-240-light-line-height: 240px;
+  --pds-typography-display-240-light-letter-spacing: -2.5px;
+  --pds-typography-display-240-light-font-weight: light;
 
-  --pds-typography-label-28-font-size: 28px;
-  --pds-typography-label-28-line-height: 32px;
-  --pds-typography-label-28-letter-spacing: 0;
-  --pds-typography-label-28-font-weight: light;
+  --pds-typography-display-120-light-font-size: 120px;
+  --pds-typography-display-120-light-line-height: 120px;
+  --pds-typography-display-120-light-letter-spacing: -3px;
+  --pds-typography-display-120-light-font-weight: light;
+
+  --pds-typography-display-48-light-font-size: 48px;
+  --pds-typography-display-48-light-line-height: 48px;
+  --pds-typography-display-48-light-letter-spacing: 0;
+  --pds-typography-display-48-light-font-weight: light;
+
+  --pds-typography-display-36-light-font-size: 36px;
+  --pds-typography-display-36-light-line-height: 36px;
+  --pds-typography-display-36-light-letter-spacing: 0;
+  --pds-typography-display-36-light-font-weight: light;
+
+  --pds-typography-display-28-light-font-size: 28px;
+  --pds-typography-display-28-light-line-height: 32px;
+  --pds-typography-display-28-light-letter-spacing: 0;
+  --pds-typography-display-28-light-font-weight: light;
 
   --pds-typography-label-14-font-size: 14px;
   --pds-typography-label-14-line-height: 150%;
-  --pds-typography-label-14-letter-spacing: 4.25px;
+  --pds-typography-label-14-letter-spacing: 4.25;
   --pds-typography-label-14-font-weight: medium;
 
   --pds-typography-label-12-font-size: 12px;
-  --pds-typography-label-12-line-height: 180%;
+  --pds-typography-label-12-line-height: 180%%;
   --pds-typography-label-12-letter-spacing: 3.5px;
   --pds-typography-label-12-font-weight: medium;
 
   --pds-typography-label-11-font-size: 11px;
-  --pds-typography-label-11-line-height: 180%;
+  --pds-typography-label-11-line-height: 180%%;
   --pds-typography-label-11-letter-spacing: 2.25px;
   --pds-typography-label-11-font-weight: medium;
 }
