@@ -1,0 +1,13 @@
+
+.wds-button-cta {
+  color: var(--pds-primary-white);
+  background-color: var(--pds-primary-red);
+  height: 44px;
+  padding: 12px 20px;
+  border-radius: 0;
+  font-size: 16px;
+}
+
+.wds-button-cta:hover {
+  background-color: var(--pds-secondary-red-s1);
+}
