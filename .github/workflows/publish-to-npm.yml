@@ -9,6 +9,9 @@ on:
 jobs:
   publish-to-npm:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
@@ -25,7 +28,7 @@ jobs:
       - name: Login
         run: npm login
       - name: Publish
-        run: npm publish --verbose --access public
+        run: npm publish --verbose --provenance --access public
         continue-on-error: true
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPMJS_COM_TOKEN }}
