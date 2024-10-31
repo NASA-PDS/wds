@@ -6,7 +6,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NASA-PDS/wds.git"
+    "url": "git+https://github.com/NASA-PDS/wds.git"
   },
   "scripts": {
     "build:css": "rm -rf css && sass scss:css",
