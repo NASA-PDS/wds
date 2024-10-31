@@ -22,6 +22,8 @@ jobs:
         run: npm run build:icons
       - name: Build CSS
         run: npm run build:css
+      - name: Login
+        run: npm login
       - name: Publish
         run: npm publish --verbose
         continue-on-error: true
