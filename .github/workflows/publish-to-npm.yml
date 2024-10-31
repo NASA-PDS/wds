@@ -23,7 +23,7 @@ jobs:
       - name: Build CSS
         run: npm run build:css
       - name: Publish
-        run: npm publish
+        run: npm publish --verbose
         continue-on-error: true
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPMJS_COM_TOKEN }}
