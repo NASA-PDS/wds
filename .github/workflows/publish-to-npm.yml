@@ -25,7 +25,7 @@ jobs:
       - name: Login
         run: npm login
       - name: Publish
-        run: npm publish --verbose
+        run: npm publish --verbose --access public
         continue-on-error: true
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPMJS_COM_TOKEN }}
