@@ -1,2 +1,16 @@
 .DS_Store
+.editorconfig
+.envrc
+.git
+.github
+.gitignore
+.nvmrc
+.prettierignore
+.prettierrc
+.stylelintrc.json
+Makefile
+README.md
+SECURITY.md
+example
 node_modules
+tests
