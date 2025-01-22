@@ -2,7 +2,7 @@
   "name": "@nasapds/wds",
   "description": "A CSS implementation of the PDS Design System.",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
